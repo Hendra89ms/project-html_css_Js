@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "hisubyki@mailinator.com",
+      "password": "$2a$10$w.Gh.O6BKRd.rc4JXBimO.6Rl9f8nhc1HVxJXR8nN6FUo5wGnC6/K",
+      "id": 1
+    },
+    {
+      "email": "hendra89ms@gmail.com",
+      "password": "$2a$10$K1yygPxYGT5daugdaJ4BPOZ.LshxQGAepZx.8K5mUoMuZJ/jptH2C",
+      "id": 2
+    }
+  ],
+  "Blogs": []
+}
