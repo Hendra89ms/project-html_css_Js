@@ -1,0 +1,15 @@
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 18, reused 18, downloaded 0, added 0
+Progress: resolved 19, reused 18, downloaded 0, added 0
+Progress: resolved 168, reused 134, downloaded 0, added 0
+Progress: resolved 324, reused 302, downloaded 0, added 0
+Progress: resolved 411, reused 389, downloaded 0, added 0
+Progress: resolved 412, reused 389, downloaded 0, added 0
+Progress: resolved 414, reused 391, downloaded 0, added 0
+Packages: +1 -2
++--
+
+dependencies:
++ @chakra-ui/system 2.3.5
+
+Progress: resolved 414, reused 392, downloaded 0, added 1, done
